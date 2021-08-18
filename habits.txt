@@ -1,2 +1,2 @@
-pisat jednoduchy kod. kazdy kod sa da napisat na xy sposobov, ale maly by sme pisat kod tak, aby mu kazdy porozumel, nemali by sme to robit 
-komplikovane. Kod by mal by mal byt co najjednoduchsi a konzistentny.
+dostat sa do produktivnej zony, kedy nas nik nerusi. dat vediet ostatnym kolegom,
+ ze potrbeujem nejaku dobu, aby ma nerusili, vdaka comu budem produktivny
