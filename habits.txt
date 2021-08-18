@@ -1,2 +1,3 @@
-stale sa vzdelavat, ucit sa nove veci. ak sa zasekneme na niecom par mesiacov a sustredime sa len na to, neucime sa nove veci
-a stavame sa "zastaraly" napr s nejakymi prostrediami, ktore sa neustale rozvijaju
+spolupraca. V programovani je dolezite spolupracovat, ci uz ak sa niekto zasekne a my mu vieme pomoct, tak ist osa to moze stat nam, ze sa 
+zasekneme a nevieme si pomoct, vtedy nam prave spolupraca moze pomoct, pretoze kazdy rozmysla inak a moze ho jednoduchsie napadnut napriklad
+fix nejakej veci, s ktorou mame problem. spolupraca zvysuje produktivitu
