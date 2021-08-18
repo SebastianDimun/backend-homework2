@@ -1,2 +1,2 @@
-mali by sme sa zamerat predovsetkym na hlavny ciel projektu, upravy kodu do dokonalej podoby ci konfiguracia prostredia nie su tak dolezite ako 
-nejaky celkovy vysledok, ktory by nas mal zaujimat ovela viac. Tak isto pri takychto malych upravach mozeme nechat extremne vela casu a to zbytocne.
+pisat jednoduchy kod. kazdy kod sa da napisat na xy sposobov, ale maly by sme pisat kod tak, aby mu kazdy porozumel, nemali by sme to robit 
+komplikovane. Kod by mal by mal byt co najjednoduchsi a konzistentny.
