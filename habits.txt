@@ -1,3 +1,3 @@
-hovori o tom, ze aj programovanie je fyzicky narocne
-mali by sme mat nejaky pohyb a kvalitny spanok
-pri programovani by sme mali mat spravne drzanie tela, pit vela tekutin, davat si pauzy pri programovani 
+mali by sme sa sustredit na ciel projektu a nasledne nejake kontroly/testy-aby sme sa nezasekli na nejakom bode ktory chceme urobit dokonalo,
+a stratime tam vela casu, napr robim nieco aby bolo tip top ale v konecnom dosledku to nebude mat nijaku hodnotu pretoze o ten produkt nebude mat 
+nikto zaujema   tym padom som zbytocne sustredil tolko casu na upravy aby to bolo tip top
