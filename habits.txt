@@ -1,3 +1,2 @@
-mali by sme sa sustredit na ciel projektu a nasledne nejake kontroly/testy-aby sme sa nezasekli na nejakom bode ktory chceme urobit dokonalo,
-a stratime tam vela casu, napr robim nieco aby bolo tip top ale v konecnom dosledku to nebude mat nijaku hodnotu pretoze o ten produkt nebude mat 
-nikto zaujema   tym padom som zbytocne sustredil tolko casu na upravy aby to bolo tip top
+mali by sme sa zamerat predovsetkym na hlavny ciel projektu, upravy kodu do dokonalej podoby ci konfiguracia prostredia nie su tak dolezite ako 
+nejaky celkovy vysledok, ktory by nas mal zaujimat ovela viac. Tak isto pri takychto malych upravach mozeme nechat extremne vela casu a to zbytocne.
